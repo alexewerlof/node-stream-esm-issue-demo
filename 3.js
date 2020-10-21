@@ -1,5 +1,3 @@
-import { promises as fsPromises } from 'fs' // no error thrown
-import { promises as dnsPromises } from 'dns' // no error thrown
 import { promises } from 'stream/promises'
 
 /*
